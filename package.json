@@ -1,0 +1,30 @@
+{
+  "name": "haifahrul-mochajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haifahrul/mochajs.git"
+  },
+  "keywords": [
+    "mochajs",
+    "node",
+    "js"
+  ],
+  "author": "haifahrul@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haifahrul/mochajs/issues"
+  },
+  "homepage": "https://github.com/haifahrul/mochajs#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
